@@ -1,6 +1,6 @@
 /*Create a new one for just threads. will call itself in its own constructor.
 Reuse MyWin. 
-A fun project would be to implement the drag and drop features on Pikachu.
+A fun project would be to implement the drag and drop features on Pika.
 Then create a variable. As it spins across the screen, one can grab it, and it will probably be mouse clicked,
 and if the drag and drop is done manually, then the xy coordinates, are calculated based on the click coordinates. So 
 if the click coordinates move while it is clicked, then the object clicked is drawn at the new coordinates. The thing
